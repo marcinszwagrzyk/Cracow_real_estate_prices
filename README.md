@@ -6,6 +6,6 @@ Analysis of housing prices in Cracow, downloaded from Otodom.pl service
 ![feature impact: distance to city center on housing price](wykres.png)
 
 
--Geocoding of housing offers base on their description [notebook link](https://github.com/marcinszwagrzyk/Carcow_real_estate_prices/blob/master/OTO_dom_geocoding.ipynb).
+-Geocoding of housing offers base on their description [notebook link](https://nbviewer.jupyter.org/github/marcinszwagrzyk/Carcow_real_estate_prices/blob/master/OTO_dom_geocoding.ipynb).
 ![geolocated_offers](map.png)
 
