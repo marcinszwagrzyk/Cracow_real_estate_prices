@@ -1,4 +1,5 @@
-Carcow_real_estate_prices. Analysis of housing prices in Cracow, downloaded from Otodom.pl service
+Carcow_real_estate_prices. 
+Analysis of housing prices in Cracow, downloaded from Otodom.pl service
 
 -Geocoding of housing offers base on their description [notebook link](https://github.com/marcinszwagrzyk/Carcow_real_estate_prices/blob/master/OTO_dom_geocoding.ipynb).
 ![geolocated_offers](map.png)
